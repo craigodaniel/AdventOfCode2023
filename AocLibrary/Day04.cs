@@ -25,9 +25,6 @@ namespace AocLibrary
         //
         // Refactor: created int array with all card results...
         // Mitigated electric bill >90%+, room temp decreased 3.14159 C.
-        //
-        //
-        // Refactor: Mitigated electric bill >90%+, room temp decreased 3.14159 C.
 
         public static string fileDir = Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.Parent.FullName;
         public static string fileName = "day_4_input.txt";
